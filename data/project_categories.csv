@@ -1,0 +1,23 @@
+id,created_at,updated_at,group_slug,enabled,international,name,slug
+1,2016-04-04 21:22:07.650464,2016-04-04 21:22:07.650464,business,t,f,Accounting & Finance,accounting
+3,2016-04-04 21:22:08.185673,2016-04-04 21:22:08.185673,business,t,t,Evaluation,evaluation
+5,2016-04-04 21:22:08.297166,2016-04-04 21:22:08.297166,business,t,t,Program Design,program
+6,2016-04-04 21:22:08.365836,2016-04-04 21:22:08.365836,business,t,t,Research,research
+7,2016-04-04 21:22:08.425545,2016-04-04 21:22:08.425545,hr,t,f,HR Management,management
+8,2016-04-04 21:22:08.509798,2016-04-04 21:22:08.509798,hr,t,f,Board Development,board
+9,2016-04-04 21:22:08.564899,2016-04-04 21:22:08.564899,hr,t,t,Staff Development,staff
+11,2016-04-04 21:22:08.716657,2016-04-04 21:22:08.716657,marketing,t,f,Brand Development,brand
+12,2016-04-04 21:22:08.766127,2016-04-04 21:22:08.766127,marketing,t,f,Messaging,messaging
+13,2016-04-04 21:22:08.829061,2016-04-04 21:22:08.829061,marketing,t,t,Multimedia,multimedia
+14,2016-04-04 21:22:08.91247,2016-04-04 21:22:08.91247,marketing,t,t,Design,design
+15,2016-04-04 21:22:08.973622,2016-04-04 21:22:08.973622,marketing,t,t,Copy writing/editing,copywriting
+16,2016-04-04 21:22:09.016946,2016-04-04 21:22:09.016946,marketing,t,f,Public Relations,pr
+18,2016-04-04 21:22:09.154226,2016-04-04 21:22:09.154226,it,t,t,CRM,crm
+19,2016-04-04 21:22:09.20784,2016-04-04 21:22:09.20784,it,t,t,Website design,design
+21,2016-04-04 21:22:09.391566,2016-04-04 21:22:09.391566,it,t,t,Mobile Development,mobile
+22,2016-04-05 19:57:05.986965,2016-04-07 16:28:52.766234,business,f,f,Grant writing/development,grant
+10,2016-04-04 21:22:08.630276,2016-08-03 19:07:10.248495,marketing,t,t,Marketing Strategy,strategy
+4,2016-04-04 21:22:08.260356,2016-08-10 19:29:59.101154,business,t,t,Project Management,project
+20,2016-04-04 21:22:09.271835,2016-08-16 17:29:58.86875,it,t,t,Website development,development
+17,2016-04-04 21:22:09.104762,2016-08-16 17:31:20.92339,it,t,t,IT Infrastructure,infrastructure
+2,2016-04-04 21:22:08.118986,2016-07-26 15:51:33.7851,business,t,t,Business Planning,planning
